@@ -13,5 +13,6 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <div><br/>
+<img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/><div><br/>
 
-Estudante de Ciência da Computação, interessada em DevSecOps e Cibersegurança, explorando práticas de segurança, automação e infraestrutura.
+Estudante de Ciência da Computação, interessada em Cibersegurança, explorando práticas de segurança, automação e infraestrutura.
