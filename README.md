@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Vanessa 👋🏾
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessafelipedasilva)
 
-<img src="https://github-readme-stats.vercel.app/api?username=vnsafs&show_icons=true&theme=vision-friendly-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vnsafs&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnsafs&layout=donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnsafs&layout=compact&theme=radical"/>
 
 ## Tecnologias que eu uso no meu dia
 
