@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Vanessa 👋🏾
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessafelipedasilva) [![Cyberfolio](https://img.shields.io/badge/Meu%20Cyberfolio-2EA44F?style=for-the-badge&logo=todoist&logoColor=white)](https://cyber-portfolio-coral-tau.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessafelipedasilva) [![Cyberfolio](https://img.shields.io/badge/Meu%20Cyberfolio-16FF00?style=for-the-badge&logo=codeforces&logoColor=black&labelColor001403)](https://cyber-portfolio-coral-tau.vercel.app/)
 
 <p align="center"><img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=vnsafs&layout=compact&theme=radical&hide_border=true />
 
