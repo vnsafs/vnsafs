@@ -14,6 +14,6 @@
 
 Estudante de Ciência da Computação, desenvolvendo projetos e explorando o universo de Cibersegurança.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnsafs&layout=compact&theme=dark)](https://github.com/vnsafs/Store)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vnsafs&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vnsafs&show_icons=true&theme=radical&hide_border=true" />
+</p>
